@@ -1,0 +1,12 @@
+name = "Valogranie - MC modpack "
+version = "0.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ab0af6feb3a604453ec85c28e6e5d1d9b4a72bd146646d8f45eff40de898274"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.1"
